@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">miPrimeraAppComposable</string>
+    <string name="bienvenida">"Bienvenido a la factoria de proyectos"</string>
+</resources>
